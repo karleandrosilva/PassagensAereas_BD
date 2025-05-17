@@ -32,25 +32,16 @@ Este projeto consiste em um **Sistema de Passagens Aéreas**, desenvolvido pelos
 
 Sistema de Passagens Aéreas/
 
-├── csv/
-
-│ ├── aeroporto.csv
-
-│ ├── avioes.csv
-
-│ ├── cliente.csv
-
-│ ├── passagem.csv
-
-│ └── voos.csv
-
-├── ddl e dml/
-
-│ ├── ddl.txt
-
-│ └── dml.txt
-
-└── README.md
+    ├── csv/
+    │ ├── aeroporto.csv
+    │ ├── avioes.csv
+    │ ├── cliente.csv
+    │ ├── passagem.csv
+    │ └── voos.csv
+    ├── ddl e dml/
+    │ ├── ddl.txt
+    │ └── dml.txt
+    └── README.md
 
 ---
 
