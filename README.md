@@ -45,8 +45,8 @@ O sistema foi desenvolvido com base nos princípios da **normalização**, respe
     │   ├── passagem.csv
     │   └── voos.csv
     ├── ddl e dml/
-    │   ├── ddl.txt
-    │   └── dml.txt
+    │   ├── ddl.sql
+    │   └── dml.sql
     └── README.md
 
 ---
